@@ -1,3 +1,10 @@
+Project UAS Deep Learning
+Nama: Yafi Prawira Adyatma
+NIM: 2255201054
+Model: TinyLlama-1.1B
+
+
+
 # Chatbot FAQ Internal - TinyLlama 1.1B
 
 **PT Teknologi Maju Bersama - FAQ Assistant**
