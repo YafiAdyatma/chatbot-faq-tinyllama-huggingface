@@ -1,0 +1,106 @@
+{
+  "company": "PT Teknologi Maju Bersama",
+  "faqs": [
+    {
+      "id": 1,
+      "category": "Jam Kerja",
+      "question": "Berapa jam kerja di perusahaan ini?",
+      "answer": "Jam kerja standar adalah Senin-Jumat, pukul 08:00 - 17:00 WIB dengan istirahat 1 jam (12:00-13:00). Untuk posisi tertentu, tersedia flexible working hours dengan approval dari supervisor.",
+      "keywords": ["jam kerja", "working hours", "jadwal", "senin jumat"]
+    },
+    {
+      "id": 2,
+      "category": "Cuti",
+      "question": "Bagaimana cara mengajukan cuti?",
+      "answer": "Untuk mengajukan cuti, silakan login ke sistem HRIS (hris.perusahaan.com), pilih menu 'Leave Request', isi form dengan tanggal cuti yang diinginkan minimal 3 hari sebelumnya, dan tunggu approval dari atasan langsung. Anda berhak atas 12 hari cuti tahunan.",
+      "keywords": ["cuti", "leave", "izin", "hris", "pengajuan"]
+    },
+    {
+      "id": 3,
+      "category": "Gaji",
+      "question": "Kapan gaji dibayarkan?",
+      "answer": "Gaji dibayarkan setiap tanggal 25 setiap bulannya. Jika tanggal 25 jatuh pada hari libur/weekend, pembayaran akan dilakukan pada hari kerja sebelumnya. Slip gaji dapat diakses melalui sistem HRIS mulai tanggal 26.",
+      "keywords": ["gaji", "salary", "pembayaran", "tanggal 25", "payroll"]
+    },
+    {
+      "id": 4,
+      "category": "Benefit",
+      "question": "Apa saja benefit yang didapat karyawan?",
+      "answer": "Benefit karyawan meliputi: BPJS Kesehatan & Ketenagakerjaan, Asuransi kesehatan tambahan, Tunjangan makan Rp 50.000/hari, Tunjangan transport, THR, Bonus tahunan berdasarkan performa, Program pelatihan & development, dan Work from home 2x seminggu.",
+      "keywords": ["benefit", "tunjangan", "bpjs", "asuransi", "fasilitas", "bonus"]
+    },
+    {
+      "id": 5,
+      "category": "IT Support",
+      "question": "Bagaimana cara menghubungi IT support?",
+      "answer": "IT Support dapat dihubungi melalui: Extension 150, Email: itsupport@perusahaan.com, atau submit ticket di portal IT (it.perusahaan.com). Tim IT Support siap membantu Senin-Jumat 08:00-18:00. Untuk urgent issue di luar jam kerja, hubungi hotline: 0812-3456-7890.",
+      "keywords": ["it support", "teknologi", "komputer", "laptop", "email", "password", "vpn"]
+    },
+    {
+      "id": 6,
+      "category": "Parkir",
+      "question": "Apakah ada fasilitas parkir?",
+      "answer": "Ya, tersedia parkir gratis untuk karyawan di basement gedung. Untuk akses parkir, gunakan kartu akses karyawan Anda. Parkir motor di area B1, parkir mobil di area B2-B3. Jam operasional: 24 jam. Untuk tamu, tersedia parkir tamu di lantai dasar dengan biaya Rp 5.000/jam.",
+      "keywords": ["parkir", "parking", "kendaraan", "motor", "mobil", "basement"]
+    },
+    {
+      "id": 7,
+      "category": "Training",
+      "question": "Apakah ada program training untuk karyawan?",
+      "answer": "Perusahaan menyediakan berbagai program training: Technical training sesuai bidang (quarterly), Soft skills workshop (monthly), Online course subscription (Udemy, Coursera), Sertifikasi profesional dengan reimbursement 100%, dan Leadership development program untuk level supervisor ke atas. Info training bisa diakses di portal Learning & Development.",
+      "keywords": ["training", "pelatihan", "kursus", "sertifikasi", "development", "workshop"]
+    },
+    {
+      "id": 8,
+      "category": "Remote Work",
+      "question": "Apakah bisa work from home?",
+      "answer": "Ya, karyawan berhak WFH maksimal 2 hari per minggu dengan persetujuan atasan. Submit request WFH melalui HRIS minimal H-1. Pastikan Anda tetap available di jam kerja, attend meeting online, dan deliver pekerjaan sesuai deadline. Untuk full remote arrangement, diperlukan approval khusus dari Head of Department.",
+      "keywords": ["wfh", "work from home", "remote", "kerja dari rumah", "online"]
+    },
+    {
+      "id": 9,
+      "category": "Kesehatan",
+      "question": "Bagaimana menggunakan fasilitas kesehatan?",
+      "answer": "Untuk berobat, gunakan kartu BPJS atau kartu asuransi kesehatan perusahaan (Allianz). Daftar rumah sakit rekanan dapat dilihat di portal HR. Untuk klaim, submit di HRIS dengan melampirkan kwitansi & resep maksimal 30 hari setelah tanggal berobat. Medical check up tahunan gratis untuk semua karyawan, jadwal akan diumumkan via email.",
+      "keywords": ["kesehatan", "sakit", "berobat", "klaim", "asuransi kesehatan", "mcu", "medical"]
+    },
+    {
+      "id": 10,
+      "category": "Kantin",
+      "question": "Apakah ada kantin di kantor?",
+      "answer": "Ya, kantin tersedia di lantai 5 dengan jam operasional 07:00-17:00. Menu lunch tersedia mulai pukul 11:00. Harga menu berkisar Rp 15.000 - 35.000. Pembayaran bisa cash, e-wallet, atau potong gaji (dengan registrasi di bagian GA). Coffee corner dengan gratis coffee & tea tersedia di pantry setiap lantai.",
+      "keywords": ["kantin", "makan", "lunch", "kopi", "coffee", "pantry", "snack"]
+    },
+    {
+      "id": 11,
+      "category": "Performance Review",
+      "question": "Kapan performance review dilakukan?",
+      "answer": "Performance review dilakukan 2 kali setahun: Mid-year review (Juni-Juli) dan End-year review (Desember-Januari). Proses meliputi self-assessment, peer review, dan meeting dengan atasan. Hasil review mempengaruhi salary adjustment, bonus, dan promosi. Persiapkan achievement, goals, dan development plan Anda sebelum review session.",
+      "keywords": ["performance review", "appraisal", "evaluasi", "kinerja", "penilaian"]
+    },
+    {
+      "id": 12,
+      "category": "Resignation",
+      "question": "Bagaimana prosedur resign?",
+      "answer": "Untuk resign, submit resignation letter ke atasan dan HRD minimal 30 hari sebelum last working day. Setelah approval, lengkapi exit clearance dari semua department (Finance, IT, GA, dll). Hak yang akan diterima: Sisa gaji, uang cuti yang belum diambil, dan dana pensiun (jika applicable). Exit interview akan dijadwalkan oleh HRD untuk feedback dan improvement.",
+      "keywords": ["resign", "keluar", "berhenti", "resignation", "mengundurkan diri", "exit"]
+    }
+  ],
+  "contact": {
+    "hrd": {
+      "email": "hr@perusahaan.com",
+      "phone": "021-1234-5678",
+      "extension": "100"
+    },
+    "it_support": {
+      "email": "itsupport@perusahaan.com",
+      "phone": "0812-3456-7890",
+      "extension": "150"
+    },
+    "ga": {
+      "email": "ga@perusahaan.com",
+      "phone": "021-1234-5679",
+      "extension": "120"
+    }
+  }
+}
