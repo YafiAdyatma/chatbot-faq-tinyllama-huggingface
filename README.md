@@ -1,6 +1,9 @@
 Project UAS Deep Learning
+
 Nama: Yafi Prawira Adyatma
+
 NIM: 2255201054
+
 Model: TinyLlama-1.1B
 
 
